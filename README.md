@@ -1,5 +1,6 @@
 # YouTube-Fast-Ad
 Ad skipper for YouTube(PC) - plays Youtube ad in 16x
+This extension plays 15 second unskippable ad in only 1 second, and makes you available to skip the skippable ad in 0.3 seconds.
 
 # How to use
 1. Go to the release page(https://github.com/hjun1052/YouTube-Fast-Ad/releases) and download the "[youtube_fastAd.zip](https://github.com/hjun1052/YouTube-Fast-Ad/releases/download/releases/youtube_fastAd.zip)" file.
