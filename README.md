@@ -1,4 +1,6 @@
 # YouTube Fast Ad
+*Caution: Adblock warning message may be shown on youtube.*
+
 Ad skipper for YouTube(PC) - plays Youtube ad in 16x   
 This extension plays 15 second unskippable ad in only 1 second, and makes you available to skip the skippable ad in 0.3 seconds.
 
